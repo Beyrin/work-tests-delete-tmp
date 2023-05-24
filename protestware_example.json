@@ -1,0 +1,10 @@
+{
+  "title": "#StandWithUkraine", 
+  "identifier": "support-ukraine", 
+  "caption": "Find out how you can help support those impacted by the Russian invasion.", 
+  "tintColor": "003e80",
+  "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
+  "url": "https://linktr.ee/razomforukraine", 
+  "date": "2022-03-01",
+  "notify": false
+}
